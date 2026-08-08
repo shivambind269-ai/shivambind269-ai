@@ -38,7 +38,7 @@ I'm currently focused on **Python, Data Structures & Algorithms, Web Development
 
 <div align="center">
 
-<img src="./3d-developer.png" width="700">
+<img src="3d_developer.png" width="700">
 
 </div>
 
