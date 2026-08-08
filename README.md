@@ -182,12 +182,11 @@ I'm currently interested in:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shivambind269-ai&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=shivambind269-ai&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivambind269-ai&layout=compact&theme=tokyonight&hide_border=true" height="170">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivambind269-ai&layout=compact&theme=tokyonight&hide_border=true" height="180">
 
 </div>
-
 ---
 
 ## 🔥 Contribution Streak
