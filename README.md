@@ -177,27 +177,22 @@ I'm currently interested in:
 * 💻 Backend Development
 
 ---
-
 ## 📈 GitHub Activity
 
 <div align="center">
 
-<a href="https://github.com/shivambind269-ai">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivambind269-ai&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" width="49%" />
-</a>
+### 🚀 Building • Learning • Contributing
 
-<a href="https://github.com/shivambind269-ai">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivambind269-ai&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" width="49%" />
-</a>
 
 </div>
+
 ---
 
 ## 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=shivambind269-ai&theme=tokyonight&hide_border=true&mode=weekly" width="70%" />
+<img src="https://streak-stats.demolab.com?user=shivambind269-ai&theme=tokyonight&hide_border=true" width="75%" />
 
 </div>
 
@@ -207,7 +202,7 @@ I'm currently interested in:
 
 <div align="center">
 
-**LEARN** 🧠 → **BUILD** 🛠️ → **CONTRIBUTE** 🌍 → **GROW** 🚀
+### 🧠 LEARN → 🛠️ BUILD → 🌍 CONTRIBUTE → 🚀 GROW
 
 </div>
 
@@ -217,10 +212,9 @@ I'm currently interested in:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivambind269-ai&theme=tokyo-night&hide_border=true">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivambind269-ai&theme=tokyo-night&hide_border=true" width="95%" />
 
 </div>
-
 
 ---
 
