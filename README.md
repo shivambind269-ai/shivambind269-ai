@@ -1,10 +1,3 @@
-<div align="center">
-
-<img src="./github-banner.png" alt="Shivam Bind Developer Banner">
-
-</div>
-
-<br>
 
 # 👋 Hi, I'm Shivam Bind
 
