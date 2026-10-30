@@ -176,9 +176,10 @@ Currently strengthening my programming fundamentals and problem-solving skills.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivambind269-ai&theme=tokyo-night&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivambind269-ai&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub Contribution Activity Graph" />
 
 </div>
+
 
 ---
 
