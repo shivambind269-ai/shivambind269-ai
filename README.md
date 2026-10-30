@@ -149,16 +149,16 @@ Currently strengthening my programming fundamentals and problem-solving skills.
 
 ---
 
-
 ## 📈 GitHub Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=shivambind269-ai&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=shivambind269-ai&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivambind269-ai&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=shivambind269-ai&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
+
 
 ---
 
