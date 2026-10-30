@@ -1,65 +1,55 @@
-
 # 👋 Hi, I'm Shivam Bind
 
 <div align="center">
 
-### 💻 B.Tech CSE Student • Python Developer • Open Source Contributor
+### 💻 B.Tech CSE Student | Python Developer | Open Source Contributor
 
-**Code • Learn • Build • Contribute 🚀**
+**Building Projects • Solving Problems • Contributing to Open Source**
 
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-I'm a **Computer Science Engineering student** who enjoys turning ideas into practical software.
-
-I'm currently focused on **Python, Data Structures & Algorithms, Web Development, AI, and Open Source**.
-
-* 🎓 B.Tech CSE Student
-* 🐍 Python Developer
-* 🧠 DSA Learner
-* 🌐 Web Development Enthusiast
-* 🤖 Exploring AI & AI Agents
-* 📊 Interested in Data Analysis
-* 🌍 Open Source Contributor
-* 🚀 Building real-world projects
-* 📚 Always learning something new
-
----
-
-<div align="center">
-
-<img src="3d_developer.png" width="700">
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/shivambind269-ai)
+[![Profile Views](https://komarev.com/ghpvc/?username=shivambind269-ai&style=for-the-badge&color=blueviolet)](https://github.com/shivambind269-ai)
 
 </div>
 
 ---
+
+## 🚀 About Me
+
+I'm a Computer Science Engineering student passionate about software development, problem-solving, and building practical applications.
+
+I enjoy exploring new technologies, working on real-world projects, and contributing to open-source communities.
+
+- 🎓 B.Tech in Computer Science & Engineering
+- 🐍 Python Developer
+- 🧠 Practicing Data Structures & Algorithms
+- 🌐 Exploring Full-Stack Web Development
+- 🤖 Learning Artificial Intelligence and AI Agents
+- 📊 Interested in Data Analysis and Automation
+- 🌍 Open Source Contributor
+- 🚀 Building projects that solve real problems
+
+---
+
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css" />
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
 </p>
 
-### 🔧 Tools & Technologies
+### Frameworks & Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,flask" />
+<img src="https://skillicons.dev/icons?i=flask,git,github,vscode" />
 </p>
 
-### 📊 Data & Libraries
+### Libraries & Data Analysis
 
 <p>
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-
-![OpenPyXL](https://img.shields.io/badge/OpenPyXL-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
-
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenPyXL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </p>
 
 ---
@@ -68,121 +58,104 @@ I'm currently focused on **Python, Data Structures & Algorithms, Web Development
 
 ### 📊 Student Grade Analyzer
 
-A Python and Pandas based application for analyzing student academic performance.
+A Python-based student performance analytics application using Pandas and Excel automation.
 
-**Features**
+**Key Features**
+- CSV data processing and cleaning
+- Missing value handling
+- Grade calculation and student ranking
+- Subject-wise performance analysis
+- Attendance analysis
+- At-risk student identification
+- Automated Excel report generation
 
-* 📁 CSV data processing
-* 🧹 Data cleaning
-* 🔢 Grade calculation
-* 🏆 Student ranking
-* 📊 Subject-wise analysis
-* 📈 Attendance analysis
-* ⚠️ At-risk student detection
-* 📑 Excel report generation
-
-**Built with:** `Python` `Pandas` `OpenPyXL` `Flask`
+**Technologies:** Python | Pandas | OpenPyXL | Flask
 
 ---
 
 ### 🌱 EcoWorld
 
-An environmental awareness website designed to promote awareness about environmental issues and sustainable living.
+An environmental awareness website promoting sustainable living and environmental responsibility.
 
-**Built with:** `HTML` `CSS` `JavaScript`
+**Technologies:** HTML | CSS | JavaScript
 
 ---
 
 ### 🎨 EaseMotion CSS Contributions
 
-Contributing UI and CSS components to an open-source animation/component project.
+Contributing creative UI components and CSS animations to an open-source project.
 
-Areas of contribution include:
+**Contribution Areas**
+- CSS animations and transitions
+- Interactive UI components
+- Responsive designs
+- Frontend improvements
 
-* ✨ CSS animations
-* 🎨 UI components
-* 🖱️ Interactive effects
-* 📱 Responsive designs
-* 🌐 Front-end examples
+**Technologies:** HTML | CSS | JavaScript
 
 ---
 
-## 🌍 Open Source
+## 🌍 Open Source Contributions
 
-I enjoy contributing to open-source projects because it gives me the opportunity to:
+I believe open source is one of the best ways to learn software engineering through real-world collaboration.
+
+My contribution journey includes:
+
+- 🔧 Bug fixes and feature improvements
+- 📚 Documentation and code quality
+- 🎨 Frontend components and CSS animations
+- 🔀 Git workflows and Pull Requests
+- 🤝 Collaborating with developers
+
+**My workflow:**
 
 ```text
-Learn from real projects
-        ↓
-Understand production code
-        ↓
-Build new features
-        ↓
-Create Pull Requests
-        ↓
-Receive feedback
-        ↓
-Become a better developer
+Explore Repository
+       ↓
+Understand Codebase
+       ↓
+Find Issues
+       ↓
+Develop Solution
+       ↓
+Create Pull Request
+       ↓
+Review & Improve
+       ↓
+Contribute
 ```
-
-### 🔥 Areas I Contribute In
-
-* 🎨 Frontend components
-* CSS animations
-* UI/UX improvements
-* Documentation
-* Bug fixes
-* New examples
-* Developer tools
 
 ---
 
 ## 🧠 DSA & Problem Solving
 
-Currently improving my problem-solving skills through programming practice.
+Currently strengthening my programming fundamentals and problem-solving skills.
 
-### Topics I'm Working On
+**Topics I'm Practicing**
 
-```text
-Arrays
-Strings
-Searching
-Sorting
-Recursion
-Hashing
-Prefix Sum
-Stack
-Queue
-Time Complexity
-Dynamic Programming
-Graphs
-```
-
-### 🎯 Goal
-
-> Become a strong problem solver who can understand a problem, design an efficient solution, and implement it cleanly.
+`Arrays` `Strings` `Searching` `Sorting` `Recursion` `Hashing` `Stack` `Queue` `Graphs` `Dynamic Programming` `Time Complexity`
 
 ---
 
 ## 🤖 Currently Exploring
 
-I'm currently interested in:
-
-* 🤖 Artificial Intelligence
-* 🧠 AI Agents
-* 🔗 LLM Applications
-* ⚙️ Automation
-* 🌐 APIs
-* 📊 Data Analysis
-* 💻 Backend Development
+- Artificial Intelligence
+- Machine Learning
+- AI Agents and LLM Applications
+- Backend Development
+- REST APIs
+- Automation
+- Data Analysis
 
 ---
-## 📈 GitHub Activity
+
+## 📈 GitHub Statistics
 
 <div align="center">
 
-### 🚀 Building • Learning • Contributing
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shivambind269-ai&show_icons=true&theme=tokyonight&hide_border=true" />
 
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivambind269-ai&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -192,23 +165,13 @@ I'm currently interested in:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=shivambind269-ai&theme=tokyonight&hide_border=true" width="75%" />
+<img src="https://streak-stats.demolab.com?user=shivambind269-ai&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata" width="75%" />
 
 </div>
 
 ---
 
-## 🌱 Coding Journey
-
-<div align="center">
-
-### 🧠 LEARN → 🛠️ BUILD → 🌍 CONTRIBUTE → 🚀 GROW
-
-</div>
-
----
-
-## 📊 Contribution Graph
+## 📊 Contribution Activity
 
 <div align="center">
 
@@ -220,53 +183,14 @@ I'm currently interested in:
 
 ## 🎯 My 2026 Goals
 
-* [ ] 🧠 Become stronger in DSA
-* [ ] 🐍 Improve advanced Python
-* [ ] 🌐 Build better web applications
-* [ ] 🤖 Learn AI/ML
-* [ ] 🧩 Build AI-powered applications
-* [ ] 🌍 Make meaningful open-source contributions
-* [ ] 🏗️ Build more real-world projects
-* [ ] 🏆 Participate in hackathons
-* [ ] 💼 Build a strong developer portfolio
-
----
-
-## 📚 Learning Journey
-
-<div align="center">
-
-### LEARN → BUILD → CONTRIBUTE → IMPROVE
-
-</div>
-
-I'm a firm believer that the best way to learn development is by **building projects and contributing to real codebases**.
-
-Every project teaches me something new.
-
-Every bug makes me better.
-
-Every contribution helps me grow.
-
----
-
-## 💡 Developer Mindset
-
-```text
-                    THINK
-                      ↓
-                   LEARN
-                      ↓
-                   BUILD
-                      ↓
-                   TEST
-                      ↓
-                 IMPROVE
-                      ↓
-                CONTRIBUTE
-                      ↓
-                    REPEAT
-```
+- [ ] Become stronger in DSA
+- [ ] Master advanced Python
+- [ ] Build better web applications
+- [ ] Explore AI and Machine Learning
+- [ ] Build useful AI-powered applications
+- [ ] Make meaningful open-source contributions
+- [ ] Participate in more hackathons
+- [ ] Improve software engineering skills
 
 ---
 
@@ -275,19 +199,19 @@ Every contribution helps me grow.
 <div align="center">
 
 <a href="https://github.com/shivambind269-ai">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<!-- Replace this with your actual LinkedIn URL -->
+<!-- Add your actual LinkedIn URL here -->
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<!-- Replace this with your portfolio URL if you have one -->
+<!-- Add your portfolio URL here when available -->
 
 <a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
 
 </div>
@@ -296,8 +220,10 @@ Every contribution helps me grow.
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### 💡 LEARN → BUILD → CONTRIBUTE → GROW
 
-**Keep Learning • Keep Building • Keep Contributing 🚀**
+**Thanks for visiting my profile! ⭐**
+
+*Keep Learning. Keep Building. Keep Contributing.* 🚀
 
 </div>
